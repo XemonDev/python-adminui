@@ -25,7 +25,7 @@ setuptools.setup(
         'flask==2.1.0',
         'greenlet==1.1.3',
         'greenletio==0.9.0',
-        'gunicorn==20.1.0',
+        'gunicorn==22.0.0',
         'h11==0.13.0',
         'importlib-metadata==4.12.0',
         'itsdangerous==2.1.2',
