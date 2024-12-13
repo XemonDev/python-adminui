@@ -1,4 +1,4 @@
-from distutils.command.upload import upload
+# from distutils.command.upload import upload
 import uuid
 import jwt
 import inspect

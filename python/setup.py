@@ -23,7 +23,7 @@ setuptools.setup(
         'asgiref==3.5.2',
         'click==8.1.3',
         'flask==2.1.0',
-        'greenlet==1.1.3',
+        'greenlet==3.1.1',
         'greenletio==0.9.0',
         'gunicorn==20.1.0',
         'h11==0.13.0',
